@@ -1,0 +1,36 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.( Şh8àĞ™³.
+L
+java:S1444"/Make this "public static BUTTON_GO" field final(íéëÖ8ü›×ƒ³.
+M
+java:S1444"1Make this "public static NAME_COURSE" field final(‹üT8×§‰³.
+y
+java:S3008
+"WRename this field "INPUT_COURSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘çÅ’üÿÿÿÿ8üúÍƒ³.
+P
+java:S1444"3Make this "public static SELECT_COURSE" field final(›ééù8¯âƒ³.
+z
+java:S1104
+"XMake INPUT_COURSE a static final constant or non-public and provide accessors if needed.(‘çÅ’üÿÿÿÿ8üúÍƒ³.
+u
+java:S3008"XRename this field "SELECT_COURSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ééù8¯âƒ³.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏáÓ
+s
+java:S1104"WMake NAME_COURSE a static final constant or non-public and provide accessors if needed.(‹üT8×§‰³.
+q
+java:S3008"TRename this field "BUTTON_GO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íéëÖ8ü›×ƒ³.
+r
+java:S1104	"UMake BUTTON_UC a static final constant or non-public and provide accessors if needed.(âôä•8˜‚ˆ€³.
+r
+java:S3008"VRename this field "NAME_COURSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹üT8×§‰³.
+v
+java:S1104"YMake SELECT_COURSE a static final constant or non-public and provide accessors if needed.(›ééù8¯âƒ³.
+q
+java:S3008	"TRename this field "BUTTON_UC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âôä•8˜‚ˆ€³.
+L
+java:S1444	"/Make this "public static BUTTON_UC" field final(âôä•8˜‚ˆ€³.
+T
+java:S1444
+"2Make this "public static INPUT_COURSE" field final(‘çÅ’üÿÿÿÿ8üúÍƒ³.
+r
+java:S1104"UMake BUTTON_GO a static final constant or non-public and provide accessors if needed.(íéëÖ8ü›×ƒ³.
